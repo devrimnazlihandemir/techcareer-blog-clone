@@ -1,6 +1,8 @@
 # techcareer-blog-clone
-The initial clone project completed as part of the Front-End Bootcamp curriculum offered by Techcareer.net.
+<h1>The initial clone project completed as part of the Front-End Bootcamp curriculum offered by Techcareer.net.</h1>
 
+
+--------------
 
 820x1180
 
